@@ -1,1 +1,1 @@
-# EdgeDetectors.github.io
+###### Edge Detectors
